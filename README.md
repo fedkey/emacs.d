@@ -57,6 +57,11 @@ To install, clone this repo to `~/.emacs.d`, i.e. ensure that the
 git clone https://github.com/fedkey/emacs.d.git ~/.emacs.d
 ```
 
+windows安装
+```
+git clone https://github.com/fedkey/emacs.d.git $HOME/AppData/Roaming/.emacs.d
+```
+
 Upon starting up Emacs for the first time, further third-party
 packages will be automatically downloaded and installed. If you
 encounter any errors at that stage, try restarting Emacs, and possibly
